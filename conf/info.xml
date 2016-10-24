@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+    <title xml:lang="ko">본문내 이미지 클릭시 새창으로</title>
+    <description xml:lang="ko">
+        본문내에 삽입된 이미지를 클릭시 새창으로 보여주는 애드온입니다. (링크가 있는 경우는 제외)
+    </description>
+    <version>1.2</version>
+    <date>2016-10-24</date>
+    <author email_address="nettermhell@gmail.com" link="https://github.com/hjhj3686/xe-image-new-windows">
+        <name xml:lang="ko">불금</name>
+    </author>
+</addon>
